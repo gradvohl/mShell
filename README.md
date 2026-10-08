@@ -1,4 +1,10 @@
 # mShell - Mini Shell
+![Linguagem C](https://img.shields.io/badge/Linguagem-C-blue?style=plastic&logo=c)
+![Makefile](https://img.shields.io/badge/Build-Makefile-orange?style=plastic&logo=gnu)
+![Licença GPLv3](https://img.shields.io/badge/Licen%C3%A7a-GPLv3-brightgreen?style=plastic)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow?style=plastic)
+
+
 
 Disciplina: TT304 - Sistemas Operacionais
 Instituição: Faculdade de Tecnologia (FT) - UNICAMP
