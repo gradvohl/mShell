@@ -5,10 +5,11 @@
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow?style=plastic)
 
 
+**Disciplina:** TT304 - Sistemas Operacionais
 
-Disciplina: TT304 - Sistemas Operacionais
-Instituição: Faculdade de Tecnologia (FT) - UNICAMP
-Docente: Prof. Dr. André Leon Sampaio Gradvohl
+**Instituição:** Faculdade de Tecnologia (FT) - UNICAMP
+
+**Docente:** Prof. Dr. André Leon Sampaio Gradvohl
 
 Este repositório contém o esqueleto base para o desenvolvimento do projeto prático da disciplina TT304. O objetivo é implementar um mini interpretador de comandos (mShell) em linguagem C, utilizando chamadas de sistema POSIX/Linux para gerenciamento de processos, comunicação interprocessos, redirecionamento de descritores de arquivos e tratamento de sinais.
 
